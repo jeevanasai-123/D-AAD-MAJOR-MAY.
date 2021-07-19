@@ -1,0 +1,22 @@
+com/example/phoneloves/BuildConfig.java
+ com.example.phoneloves.BuildConfig
+com/example/phoneloves/DBHelper.java
+ com.example.phoneloves.DBHelper
+com/example/phoneloves/SplashActivity.java
+ com.example.phoneloves.SplashActivity
+ com.example.phoneloves.SplashActivity$1
+com/example/phoneloves/SwipeLeft.java
+ com.example.phoneloves.SwipeLeft
+com/example/phoneloves/MainActivity.java
+ com.example.phoneloves.MainActivity
+ com.example.phoneloves.MainActivity$1
+ com.example.phoneloves.MainActivity$1$1
+ com.example.phoneloves.MainActivity$2
+com/example/phoneloves/SwipeActivity.java
+ com.example.phoneloves.SwipeActivity
+ com.example.phoneloves.SwipeActivity$1
+ com.example.phoneloves.SwipeActivity$2
+ com.example.phoneloves.SwipeActivity$3
+ com.example.phoneloves.SwipeActivity$4
+com/example/phoneloves/SwipeRight.java
+ com.example.phoneloves.SwipeRight
